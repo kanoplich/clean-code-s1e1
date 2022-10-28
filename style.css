@@ -24,6 +24,7 @@
   }
 
 }
+
 .main {
   display: block;
   width: 500px;
@@ -42,7 +43,7 @@
   list-style: none;
 }
 input,
-.btn{
+.btn {
   outline: none;
 }
 .btn {
@@ -57,6 +58,7 @@ input,
 .btn:hover {
   color: #3a3a3a;
 }
+
 /* Heading */
 .title {
   color: #333;
@@ -104,7 +106,6 @@ input,
 .title-item > * {
   vertical-align: middle;
 }
-
 .input-checkbox {
   margin: 0 10px;
 }
@@ -136,12 +137,10 @@ input,
 .input-text {
   display: none;
 }
-
 .edit-mode .input-text {
   display: inline-block;
   width: 224px;
 }
-
 .edit-mode .task-label {
   display: none;
 }
